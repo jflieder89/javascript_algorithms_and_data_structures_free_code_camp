@@ -1,1 +1,1 @@
-# javascript_algorithms_and_data_structures_free_code_camp
+Here are my solutions for the final projects for the "JavaScript Algorithms and Data Structures" certificate course from FreeCodeCamp.
